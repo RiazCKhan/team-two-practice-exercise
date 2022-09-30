@@ -1,2 +1,0 @@
-This is my file
-That I am uploading to git
